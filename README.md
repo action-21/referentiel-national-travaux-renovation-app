@@ -17,9 +17,9 @@
 </p>
 <br/>
 
-# Référentiel National des Travaux de rénovation (RNT) - Site
+# Référentiel National des Travaux de rénovation (RNT) - Plateforme
 
-Ce projet centralise le code source du site web du RNT ainsi que l'API pour exposer les données publiques sur data.gouv.fr.
+Code source du site web du RNT et de l'API pour exposer les données publiques.
 
 > [!IMPORTANT]  
 > Le RNT est un projet en cours d'investigation. Le site et l'API ne seront développés qu'après sa validation par un service de l'État.
