@@ -1,17 +1,20 @@
 <div align="center">
-    <img width="80" height="auto" src="https://raw.githubusercontent.com/action-21/referentiel-national-travaux-renovation/refs/heads/main/assets/logo.svg" alt="RNT">
+    <img width="80" height="auto" src="https://raw.githubusercontent.com/referentiel-national-travaux-renovation/projet/refs/heads/main/assets/logo.svg" alt="RNT">
 </div>
 <p align="center">
-	<a href="https://github.com/action-21/referentiel-national-travaux-renovation">
+	<a href="https://github.com/referentiel-national-travaux-renovation/projet">
 		Le projet
 	</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/action-21/referentiel-national-travaux-renovation-schemas">
-		Schémas de données
+	<a href="https://github.com/referentiel-national-travaux-renovation/opendata">
+		Données ouvertes
 	</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/action-21/referentiel-national-travaux-renovation-doc">
+	<a href="https://github.com/referentiel-national-travaux-renovation/documentation">
 		Documentation
 	</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/action-21/referentiel-national-travaux-renovation-app">
+	<a href="https://github.com/referentiel-national-travaux-renovation/api">
+		API
+	</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/referentiel-national-travaux-renovation/app">
 		Plateforme
 	</a>
 </p>
@@ -19,17 +22,14 @@
 
 # Référentiel National des Travaux de rénovation (RNT) - Plateforme
 
-Code source du site web du RNT et de l'API pour exposer les données publiques.
+Code source de la plateforme du RNT.
 
 > [!IMPORTANT]  
-> Le RNT est un projet en cours d'investigation. Le site et l'API ne seront développés qu'après sa validation par un service de l'État.
+> Le RNT est un projet en cours d'investigation. La plateforme ne sera développée qu'après validation du projet par un service de l'État.
 
 ## Technologies
 
-- PHP 8.4
-- Symfony 7.3
-- API Platform 4.1
-- MariaDB 12.0
+- Next.js
 
 ## Design
 
