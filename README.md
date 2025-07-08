@@ -1,8 +1,8 @@
 <div align="center">
-    <img width="80" height="auto" src="https://raw.githubusercontent.com/referentiel-national-travaux-renovation/projet/refs/heads/main/assets/logo.svg" alt="RNT">
+    <img width="80" height="auto" src="https://raw.githubusercontent.com/referentiel-national-travaux-renovation/.github/refs/heads/main/assets/logo.svg" alt="RNT">
 </div>
 <p align="center">
-	<a href="https://github.com/referentiel-national-travaux-renovation/projet">
+	<a href="https://github.com/referentiel-national-travaux-renovation">
 		Le projet
 	</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/referentiel-national-travaux-renovation/opendata">
